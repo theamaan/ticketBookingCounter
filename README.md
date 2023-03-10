@@ -30,3 +30,6 @@ This application basically asks for the following details:-
 The final result will show like this:-
 
 ![Screenshot 2023-03-10 113258](https://user-images.githubusercontent.com/90848726/224237589-0b91c3ed-fe82-4c97-8b12-b92a9fd2b24a.png)
+
+
+This will automatically generate the result showing the number of tickets booked with their first name and the remaining tickets left for others to book.
